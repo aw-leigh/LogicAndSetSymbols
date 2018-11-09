@@ -25,9 +25,10 @@ This is a basic menu I created to easily insert logic and set symbols in MS Word
 ### 3. Add a macro to open the logic symbols menu
 
 -In the Project pane of the Visual Basic window, right click on "Modules" and select Insert > Module.
--Paste in the below code (don't paste the ///////):
+-Paste in the below code:
 
-///////
+
+
 Sub LogicSymbolsShow()
 '
 ' LogicSymbolsShow Macro
@@ -36,7 +37,8 @@ Sub LogicSymbolsShow()
 LogicSymbolsNew.Show vbModeless
 
 End Sub
-///////
+
+
 
 -Close the VB window, saving if prompted.
 
