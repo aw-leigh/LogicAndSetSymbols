@@ -1,18 +1,19 @@
 VERSION 5.00
-Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} LogicSymbolsNew 
+Begin {C62A69F0-16DC-11CE-9E98-00AA00574A4F} LogicSymbolsUpdated 
    Caption         =   "UserForm1"
-   ClientHeight    =   4650
+   ClientHeight    =   3615
    ClientLeft      =   120
    ClientTop       =   465
-   ClientWidth     =   5295
-   OleObjectBlob   =   "LogicSymbolsNew.frx":0000
+   ClientWidth     =   4365
+   OleObjectBlob   =   "LogicSymbolsUpdated.frx":0000
    StartUpPosition =   1  'CenterOwner
 End
-Attribute VB_Name = "LogicSymbolsNew"
+Attribute VB_Name = "LogicSymbolsUpdated"
 Attribute VB_GlobalNameSpace = False
 Attribute VB_Creatable = False
 Attribute VB_PredeclaredId = True
 Attribute VB_Exposed = False
+
 
 Private Sub CommandButton1_Click()
 Selection.InsertSymbol CharacterNumber:=172, Font:="Cambria Math", Unicode:=True, Bias:=0
@@ -96,6 +97,18 @@ Selection.InsertSymbol CharacterNumber:=215, Font:="Cambria Math", Unicode:=True
 Word.Application.Activate
 End Sub
 
+Private Sub CommandButton23_Click()
+Selection.InsertSymbol CharacterNumber:=8968, Font:="Cambria Math", Unicode:=True, Bias:=0
+Selection.InsertSymbol CharacterNumber:=8969, Font:="Cambria Math", Unicode:=True, Bias:=0
+Word.Application.Activate
+
+End Sub
+
+Private Sub CommandButton24_Click()
+Selection.InsertSymbol CharacterNumber:=955, Font:="Cambria Math", Unicode:=True, Bias:=0
+
+End Sub
+
 Private Sub CommandButton3_Click()
 
 Selection.InsertSymbol CharacterNumber:=8744, Font:="Cambria Math", Unicode:=True, Bias:=0
@@ -136,4 +149,12 @@ Private Sub CommandButton9_Click()
 
 Selection.InsertSymbol CharacterNumber:=8801, Font:="Cambria Math", Unicode:=True, Bias:=0
 Word.Application.Activate
+End Sub
+
+Private Sub Label3_Click()
+
+End Sub
+
+Private Sub UserForm_Click()
+
 End Sub
