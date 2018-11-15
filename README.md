@@ -5,6 +5,19 @@ This is a basic menu I created to easily insert logic and set symbols in MS Word
 
 [GIF Example](https://i.imgur.com/qoi1XTd.gifv)
 
+### Update (Nov 15, 2018)
+I compressed the menu and added symbols for lambda and ceiling, please see the below image.
+
+[Update](https://imgur.com/a/SMzb8UD)
+
+If you've installed the old menu and wish to upgrade: 
+
+1. Follow instruction block 2 below to import the new menu
+2. Open the Macros menu by going to Developer > Macros
+3. Highlight "LogicSymbolsShow" and choose "Edit..."
+4. Replace "LogicSymbolsNew" with "LogicSymbolsUpdated", save, and exit the window.
+
+
 ## Instructions
 
 ### 1. Enable Developer Console in Word
