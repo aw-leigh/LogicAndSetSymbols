@@ -20,7 +20,7 @@ This is a basic menu I created to easily insert logic and set symbols in MS Word
 1. In the "Developer" tab, select "Visual Basic"
 2. In the Project pane (top left corner), expand "Normal"
 3. Right click on the "Forms" folder, and select "Import File..."
-4. Select "LogicSymbolsNew.frm" and press okay.
+4. Select "LogicSymbolsUpdated.frm" and press okay.
 
 ### 3. Add a macro to open the logic symbols menu
 
@@ -33,7 +33,7 @@ Sub LogicSymbolsShow()
 ' LogicSymbolsShow Macro
 '
 '
-LogicSymbolsNew.Show vbModeless
+LogicSymbolsUpdated.Show vbModeless
 End Sub
 ```
 
