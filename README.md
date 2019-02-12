@@ -1,5 +1,5 @@
 # LogicAndSetSymbols
-Custom logic and set symbols menu for MS Word
+Custom logic and set symbols menu for MS Word for discrete math classes (for those of us who can't use LaTeX)
 
 This is a basic menu I created to easily insert logic and set symbols in MS Word:
 
