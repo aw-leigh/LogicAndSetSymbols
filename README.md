@@ -3,12 +3,12 @@ Custom logic and set symbols menu for MS Word for discrete math classes (for tho
 
 This is a basic menu I created to easily insert logic and set symbols in MS Word:
 
-![GIF Example](https://i.imgur.com/qoi1XTd.gifv)
+![GIF Example](https://i.imgur.com/qoi1XTd.gif)
 
 ### Update (Nov 15, 2018)
 I compressed the menu and added symbols for lambda and ceiling, please see the below image.
 
-![Update](https://imgur.com/a/SMzb8UD)
+![Update](https://i.imgur.com/u899CNQ.png)
 
 If you've installed the old menu and wish to upgrade: 
 
